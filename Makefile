@@ -1,0 +1,3 @@
+test: ## Runs tests
+	${info Running tests...}
+	go test -v ./...
